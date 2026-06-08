@@ -40,7 +40,8 @@ Libraries Used: (Pandas, NumPy, Matplotlib, Seaborn) – Used for exploratory da
 Power BI
 
 Used for: Used for interactive dashboards, KPI tracking, and visual storytelling.
-[Dashboard](https://github.com/harshsutar2001/Strava-Activity-Analyzer/blob/main/Dahsboard_Imgae.png?raw=true)_
+![Dashboard](<img width="1194" height="679" alt="image" src="https://github.com/user-attachments/assets/b0be8ded-ec21-41c3-998a-4ec6dbe8b0ba" />)
+
 
 
 
