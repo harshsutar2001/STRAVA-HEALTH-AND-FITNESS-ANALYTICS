@@ -74,8 +74,7 @@ Dashboard Development
 Created interactive Power BI dashboards  
 Monitored fitness and wellness KPIs  
 
-![Dashboard](https://github.com/harshsutar2001/STRAVA-HEALTH-AND-FITNESS-ANALYTICS/blob/main/Dahsboard_Imgae.png) 
-![Dashboard](https://github.com/harshsutar2001/STRAVA-HEALTH-AND-FITNESS-ANALYTICS/blob/main/Dashboard_Image(2).png)
+![Dashboard](https://github.com/harshsutar2001/STRAVA-HEALTH-AND-FITNESS-ANALYTICS/blob/main/Dahsboard_Imgae.png) ![Dashboard](https://github.com/harshsutar2001/STRAVA-HEALTH-AND-FITNESS-ANALYTICS/blob/main/Dashboard_Image(2).png)
 
 💡 Key Insights
 
