@@ -1,4 +1,4 @@
-## STRAVA ACTIVITY ANALYZER
+## STRAVA-HEALTH-AND-FITNESS-ANALYTICS
 
 This project analyzes smart fitness tracker data to understand user activity patterns, sleep behavior, calorie burn, and overall wellness trends. The analysis focuses on identifying relationships between physical activity, sleep duration, sedentary lifestyle, and calorie expenditure using SQL, Python, and Power BI.
 
