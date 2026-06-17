@@ -77,29 +77,29 @@ Monitored fitness and wellness KPIs
 
 💡 Key Insights
 
-Users with higher activity levels consistently burned more calories.
-Strong positive correlation exists between steps, distance covered, and calories burned.
-Several users exhibited sedentary behavior with low daily activity.
-Sleep duration varied significantly across users.
-Peak activity levels were observed during evening hours.
-Weekend activity was slightly higher than weekday activity.
-A small group of users demonstrated exceptionally high fitness engagement.
+Users with higher activity levels consistently burned more calories.    
+Strong positive correlation exists between steps, distance covered, and calories burned.   
+Several users exhibited sedentary behavior with low daily activity.   
+Sleep duration varied significantly across users.    
+Peak activity levels were observed during evening hours.   
+Weekend activity was slightly higher than weekday activity.   
+A small group of users demonstrated exceptionally high fitness engagement.   
 
 🚀 Recommendations
 
-Introduce personalized activity goals based on user behavior.
-Send sleep improvement reminders to users with irregular sleep patterns.
-Notify inactive users to encourage daily movement.
-Schedule engagement notifications during peak activity hours.
-Introduce fitness challenges and rewards to improve participation.
-Use behavioral insights to deliver personalized wellness recommendations.
+Introduce personalized activity goals based on user behavior.   
+Send sleep improvement reminders to users with irregular sleep patterns.   
+Notify inactive users to encourage daily movement.   
+Schedule engagement notifications during peak activity hours.   
+Introduce fitness challenges and rewards to improve participation.   
+Use behavioral insights to deliver personalized wellness recommendations.   
 
 📊 Business Impact
 
-Improved understanding of user fitness and wellness behavior.
-Identified opportunities to increase user engagement.
-Supported data-driven fitness and wellness strategies.
-Enabled better personalization through activity and sleep insights.
+Improved understanding of user fitness and wellness behavior.    
+Identified opportunities to increase user engagement.   
+Supported data-driven fitness and wellness strategies.    
+Enabled better personalization through activity and sleep insights.   
 
 📁 Project Structure
 
