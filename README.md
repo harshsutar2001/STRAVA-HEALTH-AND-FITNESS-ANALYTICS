@@ -105,19 +105,20 @@ Enabled better personalization through activity and sleep insights.
 
 STRAVA_HEALTH_AND_FITNESS_ANALYTICS/
 
-├── Data_Files/
-├── SQL/
-├── Python/
-├── Dashboard/
+├── Data_Files/   
+├── SQL/   
+├── Python/   
+├── Dashboard/   
 ├── Report/
-└── README.md
+└── README.md   
+
 👨‍💻 Author
 
 Harshvardhan Sutar
 
 Aspiring Data Analyst
 
-Skills
-SQL
-Python
-Power BI
+Skills  
+SQL   
+Python   
+Power BI    
