@@ -35,40 +35,44 @@ Business Insights
 Python
  
 Pandas  
-NumPy 
-Matplotlib 
-Seaborn 
+NumPy  
+Matplotlib   
+Seaborn  
 
 Power BI
-KPI Tracking
-Interactive Dashboards
-Data Visualization
+
+KPI Tracking  
+Interactive Dashboards   
+Data Visualization   
 
 🔄 Project Workflow
 
 Step 1: 
 
-Data Cleaning
-Removed duplicate records
-Handled missing values
-Standardized data formats
+Data Cleaning   
+Removed duplicate records   
+Handled missing values   
+Standardized data formats   
 
 Step 2: 
 
-Exploratory Data Analysis
-Analyzed activity trends
-Examined sleep behavior
-Evaluated calorie burn patterns
+Exploratory Data Analysis  
+Analyzed activity trends  
+Examined sleep behavior  
+Evaluated calorie burn patterns  
 
 Step 3: 
 
-SQL Analysis
-User behavior analysis
-Activity segmentation
-Trend identification
-Step 4: Dashboard Development
-Created interactive Power BI dashboards
-Monitored fitness and wellness KPIs
+SQL Analysis  
+User behavior analysis  
+Activity segmentation  
+Trend identification  
+
+Step 4: 
+
+Dashboard Development  
+Created interactive Power BI dashboards  
+Monitored fitness and wellness KPIs  
 
 
 💡 Key Insights
