@@ -109,7 +109,7 @@ STRAVA_HEALTH_AND_FITNESS_ANALYTICS/
 ├── SQL/   
 ├── Python/   
 ├── Dashboard/   
-├── Report/
+├── Report/     
 └── README.md   
 
 👨‍💻 Author
