@@ -27,7 +27,9 @@ The dataset files used in this project are available in the Data_Files folder.
 🛠️ Tools & Technologies Used
 
 SQL Server
+
 Data Cleaning
+
 Joins & Aggregations
 Business Insights
 
