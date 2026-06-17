@@ -1,115 +1,107 @@
-## STRAVA-HEALTH-AND-FITNESS-ANALYTICS
+## STRAVA HEALTH & FITNESS ANALYTICS
 
-This project analyzes smart fitness tracker data to understand user activity patterns, sleep behavior, calorie burn, and overall wellness trends. The analysis focuses on identifying relationships between physical activity, sleep duration, sedentary lifestyle, and calorie expenditure using SQL, Python, and Power BI.
+Analyzing fitness tracker data to understand user activity, sleep behavior, calorie expenditure, and wellness patterns using SQL, Python, and Power BI.
 
-The objective of this project is to help a wellness technology company like Bellabeat improve customer engagement, provide personalized health recommendations, and optimize wellness strategies using data-driven insights.
+-- Project Overview
 
---Business Problem
+The Strava Health & Fitness Analytics project focuses on analyzing user fitness and wellness data to uncover activity trends, sleep patterns, and lifestyle behaviors. The objective is to generate actionable insights that can help improve user engagement and support healthier habits.
 
-Bellabeat aims to understand how users interact with fitness tracking devices and identify behavioral trends that can improve customer experience and product engagement.
+-- Business Problem
 
-The company faces several challenges:
+Fitness and wellness platforms often struggle to understand how users engage with health-tracking features and maintain consistent activity levels.
 
-Users maintaining sedentary lifestyles
-Inconsistent sleep patterns
-Low activity levels among certain users
-Difficulty identifying peak workout periods
-Need for personalized wellness recommendations
+Key challenges include:
 
-This project helps analyze user fitness behavior and provides actionable insights to support business growth and customer wellness improvement.
+Low physical activity among some users
+Irregular sleep behavior
+Sedentary lifestyle patterns
+Difficulty identifying engagement trends
+Need for personalized fitness recommendations
 
---Objectives
-Analyze daily user activity and fitness behavior
-Identify highly active and inactive users
-Analyze sleep duration and sleep quality patterns
-Understand the relationship between steps and calorie burn
-Detect sedentary lifestyle behavior
-Identify peak activity hours and workout trends
-Compare weekday vs weekend activity levels
-Provide business recommendations for improving user engagement
+Dataset Information
 
-Tools & Technologies Used
+The dataset contains user activity, sleep, calorie burn, and wellness-related metrics collected from fitness tracking devices.
+The dataset files used in this project are available in the Data_Files folder.
+
+🛠️ Tools & Technologies Used
 SQL Server
-
-Used for: Used for data cleaning, joins, aggregations, and extracting business insights.
+Data Cleaning
+Joins & Aggregations
+Business Insights
 
 Python
-
-Libraries Used: (Pandas, NumPy, Matplotlib, Seaborn) – Used for exploratory data analysis, visualization, and trend analysis.
+Pandas
+NumPy
+Matplotlib
+Seaborn
 
 Power BI
+KPI Tracking
+Interactive Dashboards
+Data Visualization
 
-Used for: Used for interactive dashboards, KPI tracking, and visual storytelling.
-![Dashboard](https://github.com/harshsutar2001/Strava-Activity-Analyzer/blob/main/Dahsboard_Imgae.png)
+-- Project Workflow
+Step 1: Data Cleaning
+Removed duplicate records
+Handled missing values
+Standardized data formats
+
+Step 2: Exploratory Data Analysis
+Analyzed activity trends
+Examined sleep behavior
+Evaluated calorie burn patterns
+
+Step 3: SQL Analysis
+User behavior analysis
+Activity segmentation
+Trend identification
+
+Step 4: Dashboard Development
+Created interactive Power BI dashboards
+Monitored fitness and wellness KPIs
 
 
+💡 Key Insights
+Users with higher activity levels consistently burned more calories.
+Strong positive correlation exists between steps, distance covered, and calories burned.
+Several users exhibited sedentary behavior with low daily activity.
+Sleep duration varied significantly across users.
+Peak activity levels were observed during evening hours.
+Weekend activity was slightly higher than weekday activity.
+A small group of users demonstrated exceptionally high fitness engagement.
+
+🚀 Recommendations
+Introduce personalized activity goals based on user behavior.
+Send sleep improvement reminders to users with irregular sleep patterns.
+Notify inactive users to encourage daily movement.
+Schedule engagement notifications during peak activity hours.
+Introduce fitness challenges and rewards to improve participation.
+Use behavioral insights to deliver personalized wellness recommendations.
 
 
+📊 Business Impact
+Improved understanding of user fitness and wellness behavior.
+Identified opportunities to increase user engagement.
+Supported data-driven fitness and wellness strategies.
+Enabled better personalization through activity and sleep insights.
 
 
+📁 Project Structure
+STRAVA_HEALTH_AND_FITNESS_ANALYTICS/
 
-Key Analysis Performed
---SQL Analysis
-Cleaned null values and duplicate records
-Joined activity, sleep, and weight datasets
-Identified highly active and least active users
-Analyzed sleep duration patterns
-Evaluated calorie burn trends
-Compared weekday and weekend activity
-Identified peak activity hours
-Detected sedentary lifestyle behavior
+├── Data_Files/
+├── SQL/
+├── Python/
+├── Dashboard/
+├── Report/
+└── README.md
+👨‍💻 Author
 
---Python Analysis & Visualization
-Charts Created:
-Daily Steps Trend Analysis
-Calories Burned Distribution
-Top Active Users Analysis
-Steps vs Calories Scatter Plot
-Sleep Duration Analysis
-Weekday Activity Analysis
-Correlation Heatmap
-Distance Covered Trend
-Sedentary vs Active Minutes
-Outlier Detection using Boxplot
+Harshvardhan Sutar
 
---Power BI Dashboard
-Created dashboards for:
-User Activity Monitoring
-Sleep Analysis
-Fitness Performance Tracking
-Weekly Activity Trends
-Interactive User Filtering
+Aspiring Data Analyst
 
---Insights & Findings
-Users with higher step counts burned significantly more calories.
-Several users showed sedentary behavior with very low activity levels.
-Sleep duration varied considerably across users.
-Peak activity hours were mostly observed during evening periods.
-Weekend activity levels were slightly higher compared to weekdays.
-Strong positive correlation was found between steps, distance, and calories burned.
-Some users displayed unusually high activity and calorie burn patterns.
-
---Business Recommendations
-1]Personalized Fitness Goals
-Bellabeat can recommend customized daily step targets based on user behavior.
-
-2]Smart Sleep Notifications
-Users with poor sleep patterns should receive sleep improvement reminders and wellness suggestions.
-
-3]Sedentary Lifestyle Alerts
-The application can notify inactive users to improve movement and reduce sitting time.
-
-4] Peak-Time Engagement
-Workout reminders and motivational notifications can be scheduled during peak activity hours.
-
-5] Gamification Features
-Introduce badges, challenges, and rewards to increase user engagement and fitness participation.
-
-6] Data-Driven Wellness Strategy
-Bellabeat can leverage activity and sleep insights to create personalized health recommendations and marketing strategies.
-
---Final Conclusion
-
-This project successfully analyzed smart fitness device data to uncover meaningful patterns in user activity, sleep behavior, and wellness trends. The analysis demonstrated how data analytics can help wellness companies improve customer engagement, promote healthier lifestyles, and make data-driven business decisions.
-
-The project combines SQL, Python, and Power BI to deliver a complete end-to-end data analytics solution suitable for business intelligence and healthcare analytics applications.
+Skills
+SQL
+Python
+Power BI
