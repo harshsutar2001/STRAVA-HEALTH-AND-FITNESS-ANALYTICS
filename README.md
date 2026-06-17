@@ -22,7 +22,7 @@ Need for personalized fitness recommendations
 
 The dataset contains user activity, sleep, calorie burn, and wellness-related metrics collected from fitness tracking devices.
 
-The dataset files used in this project are available in the Data_Files folder.
+The dataset files used in this project are available in the Data folder.
 
 🛠️ Tools & Technologies Used
 
@@ -74,6 +74,8 @@ Dashboard Development
 Created interactive Power BI dashboards  
 Monitored fitness and wellness KPIs  
 
+![Dashboard](https://github.com/harshsutar2001/STRAVA-HEALTH-AND-FITNESS-ANALYTICS/blob/main/Dahsboard_Imgae.png)
+
 
 💡 Key Insights
 
@@ -105,7 +107,7 @@ Enabled better personalization through activity and sleep insights.
 
 STRAVA_HEALTH_AND_FITNESS_ANALYTICS/
 
-├── Data_Files/   
+├── Data/   
 ├── SQL/   
 ├── Python/   
 ├── Dashboard/   
