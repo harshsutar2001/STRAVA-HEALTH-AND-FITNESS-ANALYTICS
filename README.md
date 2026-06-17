@@ -28,16 +28,16 @@ The dataset files used in this project are available in the Data_Files folder.
 
 SQL Server
 
-Data Cleaning
-Joins & Aggregations
-Business Insights
+Data Cleaning   
+Joins & Aggregations  
+Business Insights 
 
 Python
-
-Pandas
-NumPy
-Matplotlib
-Seaborn
+ 
+Pandas  
+NumPy 
+Matplotlib 
+Seaborn 
 
 Power BI
 KPI Tracking
