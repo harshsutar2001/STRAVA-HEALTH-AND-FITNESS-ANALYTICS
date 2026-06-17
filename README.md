@@ -24,6 +24,7 @@ The dataset contains user activity, sleep, calorie burn, and wellness-related me
 The dataset files used in this project are available in the Data_Files folder.
 
 🛠️ Tools & Technologies Used
+
 SQL Server
 Data Cleaning
 Joins & Aggregations
@@ -41,6 +42,7 @@ Interactive Dashboards
 Data Visualization
 
 -- Project Workflow
+
 Step 1: Data Cleaning
 Removed duplicate records
 Handled missing values
@@ -63,7 +65,7 @@ Monitored fitness and wellness KPIs
 
 💡 Key Insights
 Users with higher activity levels consistently burned more calories.
-Strong positive correlation exists between steps, distance covered, and calories burned.
+Strong positive correlation exists between steps, distance covered, and calories burned
 Several users exhibited sedentary behavior with low daily activity.
 Sleep duration varied significantly across users.
 Peak activity levels were observed during evening hours.
@@ -81,8 +83,11 @@ Use behavioral insights to deliver personalized wellness recommendations.
 
 📊 Business Impact
 Improved understanding of user fitness and wellness behavior.
+
 Identified opportunities to increase user engagement.
+
 Supported data-driven fitness and wellness strategies.
+
 Enabled better personalization through activity and sleep insights.
 
 
